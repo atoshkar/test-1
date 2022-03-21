@@ -1,0 +1,186 @@
+/* font-family: font-family: 'Roboto', sans-serif; */
+* {
+  margin: 0;
+  padding: 0;
+}
+.body {
+  font-family: font-family: 'Roboto', sans-serif;
+}
+.main{
+  height: 100vh;
+  width: 100%;
+  background-color: #D051EF;
+ background-image: url("pexels-julia-volk-5273316.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position:center;
+ background-blend-mode: overlay;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.form-part {height: 70vh;
+width: 70%;
+background-color: white;
+}
+
+.form-left{
+  height: 100%;
+  width: 50%;
+  background-color: #5548E4;
+  background-blend-mode: overlay   ;
+  background-image: url("andrea-piacquadio.jpg");
+  background-repeat: no-repeat;
+  background-position:calc();
+  background-size: cover;
+  padding: 100px 40px;
+  box-sizing: border-box;
+  }
+
+.form-left h2{
+  font-size: 120px; 
+  color: white;
+  line-height: 120px;
+  }
+
+.form-left p{
+  color: white; 
+  margin-top: 10px;
+  font-size:18px;
+  }
+.form-left b{
+  display: block;
+  margin-top: 50px;
+  font-size: 20px;
+  color: white;
+}
+.form-left button {
+  border: none;
+  border-radius: 30px;
+  padding: 8px 30px;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.fb-btn {
+  background-color: #3b5998;
+  }
+  .tw-btn{
+    background-color: #1CDAEB;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.main img {
+  height: 100%;  /*এই কমান্ডের মাধ্যমে ইমেজের কোয়ালিটি নষ্ট হয়ে গিয়েছিল*/
+  /*width: 100%;
+  /*object-fit: cover; /*১৪ নং লাইনের কোয়ালিটি ঠিক করার জন্য এই কমান্ড ব্যবহার করা হয়েছে।*/
+  /*object-position:center;  
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .box {  
+  height: 200px;
+  width: 200px;
+  background-color: crimson;
+  transition: 0.5s; /* --------------------------------------transition applied here */
+  /* transition: height 0.5s; */
+  /* transition: background-color 0.5s; */
+
+  /* transition মূলতঃ একটা এনিমেশনের মতো দেখতে; এখানে সেকেন্ড মূলতঃ ঘড়ির কাটার চাইতে ফাস্ট হয়, আর এটা ১ অথবা ০.৫ সেকেন্ড দিতে হয় */
+}
+/*.box:hoer {
+  /*background-color: green;
+  /* height: 300px; */
+/* } */

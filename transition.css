@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Roboto" sans-serif;
+}
+.main {
+  height: 100vh;
+  width: 100%;
+  background-color: #d051ef;
+  background-image: url("pexels-julia-volk-5273316.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: overlay;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-part {
+  height: 70vh;
+  width: 70%;
+  background-color: white;
+}
+
+.form-left {
+  height: 100%;
+  width: 50%;
+  background-color: #5548e4;
+  background-blend-mode: overlay;
+  background-image: url("https://3vzy8m3eenx1p8gs2ojxf24g-wpengine.netdna-ssl.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/06/cell-phone-buying-guide-tips.jpg.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 100px 40px;
+  box-sizing: border-box;
+}
+
+.form-left h2 {
+  font-size: 120px;
+  color: white;
+  line-height: 120px;
+}
+
+.form-left p {
+  color: white;
+  margin-top: 10px;
+  font-size: 18px;
+}
+.form-left b {
+  display: block;
+  margin-top: 50px;
+  font-size: 20px;
+  color: white;
+}
+.form-left button {
+  border: none;
+  border-radius: 30px;
+  padding: 10px 30px;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 20px;
+
+  cursor: pointer;
+}
+.fb-btn {
+  background-color: #3b5998;
+}
+.tw-btn {
+  background-color: #1cdaeb;
+}
+.form-right h2 {
+  font-size: 60px;
+  text-align: right;
+  margin-right: -45%;
+  margin-top: -85%;
+  color: black;
+  margin-bottom: 20px;
+}
+.form-right p {
+  font-size: 16px;
+  text-align: right;
+  margin-right: -82.5%;
+  margin-top: -15px;
+  color: black;
+}
+
+.form-right .para {
+  font-size: 16px;
+  text-align: right;
+  margin-right: -41%;
+  margin-top: -0px;
+  color: black;
+}
+form .un {
+  font-size: 20px;
+  text-align: right;
+  margin-right: -37%;
+  margin-top: 30px;
+  color: black;
+}
+section .liun {
+  height: 100px;
+  width: 100px;
+  border-bottom: 2px solid #7e7878b2;
+  margin-top: -100px;
+  margin-left: 715px;
+  padding-right: 270px;
+}
+
+form .pw {
+  font-size: 20px;
+  text-align: right;
+  margin-right: -37%;
+  margin-top: 30px;
+  color: black;
+}
+section .lipw {
+  height: 100px;
+  width: 100px;
+  border-bottom: 2px solid #7e7878b2;
+  margin-top: -100px;
+  margin-left: 715px;
+  padding-right: 270px;
+}
+.form-right .fp {
+  font-size: 18px;
+  margin-top: 10px;
+  padding-right: -205%;
+  color: black;
+  box-sizing: border-box;
+}
+
+label.chk {
+  font-size: 18px;
+  padding: 700px;
+  margin-top: -auto;
+  color: red;
+}
+/* .checkbox {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+} */
+
+/* .form-right .icon-1 {
+  position: absolute;
+  top: 40%;
+  right: 35.5%;
+  font-size: 20px;
+} */
+/* .form-right .l1 {
+  height: 100px;
+  width: 500px;
+  background-color: red;
+  border-color: green;
+} */
+
+/* label p {
+  height: 100px;
+  width: 100px;
+  padding: 500px;
+  text-align: center;
+  background-color: green;
+  margin-top: 1000px;
+} */
+
+/* input {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+
+  padding: 10px 20px;
+  margin-left: 800px;
+  border-bottom: 1px solid black;
+} */
